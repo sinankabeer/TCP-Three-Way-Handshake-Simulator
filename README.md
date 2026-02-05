@@ -1,2 +1,14 @@
-# TCP-Three-Way-Handshake-Simulator
-Built a client-server simulation and animated visualization to demonstrate TCP connection establishment, including failure and retry scenarios. Implemented socket programming, protocol flow visualization using Matplotlib, and console-based step-by-step tracing. Uploaded project on GitHub for version control and demonstration.
+# TCP Three Way Handshake Simulation
+
+This project demonstrates how the TCP 3-way handshake works using Python.
+
+## Features
+- Client-Server handshake simulation
+- Visual animations using matplotlib
+- Failure and retry scenarios
+- Educational console output
+
+## How to Run
+1. Install dependencies:
+   ```bash
+   pip install matplotlib colorama scapy
